@@ -13,3 +13,18 @@ D:\Files\Courses\PluralsightCourses\ASP.NET Core Fundamentals\OdeToFood\OdeToFoo
 D:\Files\Courses\PluralsightCourses\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
 D:\Files\Courses\PluralsightCourses\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache
 D:\Files\Courses\PluralsightCourses\ASP.NET Core Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.deps.json
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.json
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache

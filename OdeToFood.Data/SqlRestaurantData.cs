@@ -25,6 +25,11 @@ namespace OdeToFood.Data
             return db.SaveChanges();
         }
 
+        public int Count()
+        {
+            return db.Restaurants.Count();
+        }
+
         public Restaurant Delete(int id)
         {
             var restaurant = GetRestaurantByID(id);
