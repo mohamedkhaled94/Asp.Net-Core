@@ -1,0 +1,9 @@
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\bin\Release\netcoreapp3.1\OdeToFood.Core.deps.json
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\bin\Release\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\bin\Release\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\obj\Release\netcoreapp3.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\obj\Release\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\obj\Release\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\obj\Release\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\obj\Release\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood.Core\obj\Release\netcoreapp3.1\OdeToFood.Core.pdb

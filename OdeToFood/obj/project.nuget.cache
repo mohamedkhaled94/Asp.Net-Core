@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "d3IRk9Gppvwe9ToRRx+D7bR5K9dP999U0ZHFCocH18DkP921ODGWN+CBQzd/ZYk1iWWkHKnLZJAa+CyhqFYwuw==",
+  "dgSpecHash": "24aUIOHbri5fgN8ILwm5Wr5t11x9DC5TZGukom7f7DMKMUgK++fCSbEvPUqHfQfpI3pzQoy+JjBasgJAaeq7CA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mohamed Khalled\\source\\repos\\Asp.Net-Core\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
@@ -57,6 +57,7 @@
     "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512",
     "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
