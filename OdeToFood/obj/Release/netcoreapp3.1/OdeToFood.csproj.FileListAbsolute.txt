@@ -181,3 +181,4 @@ C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood\obj\Release\netcore
 C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood\obj\Release\netcoreapp3.1\OdeToFood.dll
 C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood\obj\Release\netcoreapp3.1\OdeToFood.pdb
 C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood\obj\Release\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+C:\Users\Mohamed Khalled\source\repos\Asp.Net-Core\OdeToFood\bin\Release\netcoreapp3.1\appsettings.Production.json
